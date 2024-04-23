@@ -1,0 +1,6 @@
+[submodule "test_module_1"]
+	path = test_module_1
+	url = https://github.com/KReiN-S/test_module_1.git
+[submodule "test_module_2"]
+	path = test_module_2
+	url = https://github.com/KReiN-S/test_module_2.git
